@@ -1,5 +1,8 @@
 # practicaJS
 
 ## Taller 1: figuras geometricas
-Order Lists:
-1Definir formulas 2Implementar formas en JS 3Crear funciones 4Integrar JS con HTML 4
+- 1: Definir formulas
+- 2: Implementar formas en JS
+- 3: Crear funciones
+- 4: Integrar JS con HTML
+
